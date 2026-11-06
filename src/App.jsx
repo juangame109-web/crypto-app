@@ -27,7 +27,7 @@ const App = () => {
             setLoading(false)
           })
     }, [limit])
-
+  
     return(
         <div>
             <h1>Crypto App</h1>
